@@ -16,7 +16,7 @@
 ### How to initialize/run your application (where applicable)
 
 - pip install pytest
-- python3 pytest
+- python3 series.py
 
 ### How to use your library (where applicable)
 
@@ -24,4 +24,6 @@
 
 ### Tests
 
-- not applicable
+- Tests are located in the tests directory --> test_series.py.
+- Run tests using pytest.
+- All tests passed.
