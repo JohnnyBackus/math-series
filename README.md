@@ -24,7 +24,6 @@
 
 ### Tests
 
-- Tests
-How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+- Tests are located in the tests directory --> test_series.py.
+- Run tests using pytest.
+- All tests passed.
