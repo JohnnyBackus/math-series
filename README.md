@@ -16,7 +16,7 @@
 ### How to initialize/run your application (where applicable)
 
 - pip install pytest
-- python3 pytest
+- python3 series.py
 
 ### How to use your library (where applicable)
 
@@ -24,4 +24,7 @@
 
 ### Tests
 
-- not applicable
+- Tests
+How do you run tests?
+Any tests of note?
+Describe any tests that you did not complete, skipped, etc
